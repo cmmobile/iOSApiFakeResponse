@@ -1,0 +1,12 @@
+{
+    "books":[
+        {
+            "type": "code",
+            "link": "https://raw.githubusercontent.com/cmmobile/iOSApiFakeResponse/main/books_code.json"
+        },
+        {
+            "type": "swift",
+            "link": "https://raw.githubusercontent.com/cmmobile/iOSApiFakeResponse/main/books_swift.json"
+        }
+    ]
+}
