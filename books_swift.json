@@ -1,0 +1,22 @@
+{
+    "books":[
+        {
+            "name": "Swift 設計模式",
+            "image": "https://cf-assets1.tenlong.com.tw/images/96184/medium/ACL045000.jpg",
+            "link": "https://www.tenlong.com.tw/products/9789863477303",
+            "introduction": "使用Swift開發iOS應用程式的經典設計模式，Swift程式設計語言改變了iOS開發，並開啟了現代Cocoa開發的新紀元。本書為您展示如何在應用程式中發揚Swift設計模式的威力與彈性，讓你成為專案開發的大師。"
+        },
+        {
+            "name": "IOS Unit Testing by Example: Xctest Tips and Techniques Using Swift",
+            "image": "https://cf-assets2.tenlong.com.tw/ig/001/589/387/9781680506815.jpg",
+            "link": "https://www.tenlong.com.tw/products/9781680506815",
+            "introduction": "Fearlessly change the design of your iOS code with solid unit tests. Use Xcode's built-in test framework XCTest and Swift to get rapid feedback on all your code - including legacy code. Learn the tricks and techniques of testing all iOS code, especially view controllers (UIViewControllers), which are critical to iOS apps. Learn to isolate and replace dependencies in legacy code written without tests. Practice safe refactoring that makes these tests possible, and watch all your changes get verified quickly and automatically. Make even the boldest code changes with complete confidence."
+        },
+        {
+            "name": "iOS App 程式開發實務攻略：快速精通 SwiftUI",
+            "image": "https://cf-assets2.tenlong.com.tw/products/images/000/154/714/webp/9789864344789_bc.webp",
+            "link": "https://www.tenlong.com.tw/products/9789864344789",
+            "introduction": "本書精心設計了21個章節，從基礎入門開始，逐步了解如何以宣告式語法建立UI，並且你將學會使用SwiftUI和Combine框架，來實作出20個不同類型的範例程式。"
+        }
+    ]
+}
